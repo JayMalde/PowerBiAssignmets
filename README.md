@@ -1,2 +1,2 @@
 # PowerBiAssignmets
-Repository For Storing My Assignmentss
+Repository For Storing My Assignments
